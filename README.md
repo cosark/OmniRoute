@@ -1085,6 +1085,12 @@ Use these only for clients that cannot attach `Authorization: Bearer ...`. Heade
 
 <br/>
 
+## 🚀 One-Click Deploy
+
+<a href="https://repocloud.io/details/OmniRoute/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/omniroute"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+<a href="https://marketplace.digitalocean.com/apps/omniroute"><img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy on DigitalOcean" height="42"></a>
+
 ## 📦 More install methods — Docker, source, pnpm, Arch
 
 **🐳 Docker**
